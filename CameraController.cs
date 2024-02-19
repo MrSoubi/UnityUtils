@@ -4,6 +4,8 @@ using UnityEngine;
 
 /* Camera Controller
  * 
+ * Put this script on a camera.
+ *
  * Use ZQSD to move and the mouse to rotate the camera.
  * Mouse wheel to change the move speed
  * Right click + drag to move on the Y axis
